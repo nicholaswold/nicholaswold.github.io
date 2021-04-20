@@ -20,4 +20,5 @@ There are more cyberpunk hacks for Blades than there are atoms in the universe, 
 During the beginning of 2020 I put together a set of playbooks for Blades with a distinctly cyberpunk flavor. The idea here was to provide a foundation to play within a cyberpunk setting, without adding new rules to the core game. However, it does remove a core part of the game: the party does not get a crew of cohorts to boss around, nor do they get turf to control. Instead the party collects contacts and assets that can be threatened in similar ways. It's a big change, but it helps promote the small-squad-of-mercenaries feel that I think is so critical to the genre.
 
 [Here's a PDF of the playbooks](https://drive.google.com/file/d/10R3-_XRQIZd7e5Zgd9NOZNYkfrrUFjAp/view?usp=sharing)
+
 [And here is the Affinity Publisher file](https://drive.google.com/file/d/19g_wsFirHP80dnGrPtL11vYOdZm4p08G/view?usp=sharing)
