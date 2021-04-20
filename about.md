@@ -7,4 +7,4 @@ I'm an Oakland-based software engineer who spends his free time writing, cooking
 
 I joined [Noteable](https://noteable.io) in 2020 as their first hire, helping to build a joyful way to collaborate around data. Drop me a line if you want to hear more!
 
-P.S. (It's pronounced _Wuh-old_)
+P.S. It's pronounced _Wuh-old_
