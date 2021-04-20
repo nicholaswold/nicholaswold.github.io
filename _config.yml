@@ -4,7 +4,6 @@ permalink:           pretty
 # Setup
 title:               'Nicholas Wold'
 url:                 https://nicholaswold.com
-tagline:             The personal blog of Nicholas Wold
 paginate:            1000
 paginate_path:       "/page:num/"
 baseurl:             ""
